@@ -21,6 +21,9 @@ setup(
     keywords="webpage, components",
     license="MIT",
     packages=find_packages(exclude=["tests"]),
-    install_requires=[],
+    install_requires=[
+        "streamlit>=1.10.0",
+        "text-utility>=0.0.1",
+    ],
     python_requires=">=3.10",
 )
