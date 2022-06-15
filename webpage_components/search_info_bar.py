@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-def search_details(results: int, time_spent: int) -> str:
+def search_info_bar(results: int, time_spent: int) -> str:
     hits_col, time_spent_col, view_col = st.columns(3)
 
     with view_col:
