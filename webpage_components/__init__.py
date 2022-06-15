@@ -7,4 +7,4 @@ from webpage_components.display_rating import display_rating
 from webpage_components.display_segments import display_segments
 from webpage_components.display_weight import display_weight
 from webpage_components.search_bar import search_bar
-from webpage_components.search_info import search_details
+from webpage_components.search_details import search_details
