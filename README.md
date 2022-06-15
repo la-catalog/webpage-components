@@ -1,5 +1,5 @@
-# python-package
+# webpage-components
 Description  
 
 # install
-`pip install git+https://github.com/la-catalog/python-package.git`  
+`pip install git+https://github.com/la-catalog/webpage-components.git`  
