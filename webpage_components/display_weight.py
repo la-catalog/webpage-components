@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
-from text_utility import stringfy
+
+from webpage_components.utility import stringfy
 
 
 def display_weight(
