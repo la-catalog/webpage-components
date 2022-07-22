@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [project.urls]
-repository = "https://github.com/thiagola92/webpage-components"
+repository = "https://github.com/la-catalog/webpage-components"
 
 [tool.pdm]
 
