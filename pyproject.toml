@@ -1,7 +1,6 @@
 [project]
 name = "webpage-components"
 version = "0.1.0"
-description = "Components to be used in multiple webpages"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
