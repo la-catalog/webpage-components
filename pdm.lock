@@ -765,7 +765,7 @@ name = "text-utility"
 version = "0.1.0"
 requires_python = ">=3.10"
 git = "https://github.com/la-catalog/text-utility"
-revision = "2432babda35765791dd35e6c7d6deff1ec195ad0"
+revision = "0fe6ae22e13a353db89de57e57ca731e5448f590"
 summary = ""
 dependencies = [
     "gtin>=1.3.1649173518",
