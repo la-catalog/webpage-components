@@ -7,13 +7,14 @@ authors = [
     {name = "thiagola92", email = "thiagola92@gmail.com"},
 ]
 dependencies = [
-    "streamlit>=1.11.0",
+    "streamlit==1.13.0",
     "text-utility @ git+https://github.com/la-catalog/text-utility",
 ]
 
 [project.urls]
 repository = "https://github.com/la-catalog/webpage-components"
 
+[project.optional-dependencies]
 [tool.pdm]
 
 [tool.pdm.scripts]
@@ -23,8 +24,8 @@ isort = "python -m isort -v --ac ."
 
 [tool.pdm.dev-dependencies]
 lint = [
-    "black",
-    "isort"
+    "black==22.8.0",
+    "isort==5.10.1",
 ]
 
 [build-system]

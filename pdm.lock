@@ -638,7 +638,7 @@ summary = "Python for Window Extensions"
 name = "pywinpty"
 version = "2.0.6"
 requires_python = ">=3.7"
-summary = ""
+summary = "Pseudo terminal support for Windows from Python."
 
 [[package]]
 name = "pyzmq"
@@ -765,10 +765,10 @@ name = "text-utility"
 version = "0.1.0"
 requires_python = ">=3.10"
 git = "https://github.com/la-catalog/text-utility"
-revision = "0fe6ae22e13a353db89de57e57ca731e5448f590"
+revision = "8f8bfe27b306be9bd31903f74f1e47732ffd27e0"
 summary = ""
 dependencies = [
-    "gtin>=1.3.1649173518",
+    "gtin==1.3.1649173518",
 ]
 
 [[package]]
@@ -879,7 +879,7 @@ summary = "Backport of pathlib-compatible object wrapper for zip files"
 
 [metadata]
 lock_version = "4.0"
-content_hash = "sha256:c9396b690d9bb00eefe3a52b3a9259413a70748831e05bdd307b3987ddeb6139"
+content_hash = "sha256:77420e23406f96e959afc8930efc37fbe9f1367d012e08a2358ec074408a4319"
 
 [metadata.files]
 "altair 4.2.0" = [
