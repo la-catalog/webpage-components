@@ -638,7 +638,7 @@ summary = "Python for Window Extensions"
 name = "pywinpty"
 version = "2.0.6"
 requires_python = ">=3.7"
-summary = "Pseudo terminal support for Windows from Python."
+summary = ""
 
 [[package]]
 name = "pyzmq"
@@ -765,7 +765,7 @@ name = "text-utility"
 version = "0.1.0"
 requires_python = ">=3.10"
 git = "https://github.com/la-catalog/text-utility"
-revision = "8f8bfe27b306be9bd31903f74f1e47732ffd27e0"
+revision = "841ff442f97a42bfe23ef043990827ca0f1767dd"
 summary = ""
 dependencies = [
     "gtin==1.3.1649173518",
