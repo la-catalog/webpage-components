@@ -7,7 +7,6 @@ authors = [
 ]
 dependencies = [
     "streamlit==1.13.0",
-    "text-utility @ git+https://github.com/la-catalog/text-utility",
 ]
 
 [project.urls]

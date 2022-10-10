@@ -191,12 +191,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "gtin"
-version = "1.3.1649173518"
-requires_python = "~=3.6"
-summary = "Parse GTINs (also known as UPC/EAN/JAN/ISBN)"
-
-[[package]]
 name = "idna"
 version = "3.3"
 requires_python = ">=3.5"
@@ -638,7 +632,7 @@ summary = "Python for Window Extensions"
 name = "pywinpty"
 version = "2.0.6"
 requires_python = ">=3.7"
-summary = ""
+summary = "Pseudo terminal support for Windows from Python."
 
 [[package]]
 name = "pyzmq"
@@ -761,17 +755,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "text-utility"
-version = "0.1.0"
-requires_python = ">=3.10"
-git = "https://github.com/la-catalog/text-utility"
-revision = "c345413a18b271fdc03c5150d4f70568205d7f31"
-summary = ""
-dependencies = [
-    "gtin==1.3.1649173518",
-]
-
-[[package]]
 name = "tinycss2"
 version = "1.1.1"
 requires_python = ">=3.6"
@@ -879,7 +862,7 @@ summary = "Backport of pathlib-compatible object wrapper for zip files"
 
 [metadata]
 lock_version = "4.0"
-content_hash = "sha256:77016295ed4d5b9eeb2cfa0f0272c7a53d757293139df9b6a3f1eeea83dcbfbe"
+content_hash = "sha256:7b03baa975ca13579fad4076136f244e0c8cdecb698c7dc56a6c8986143e4f2b"
 
 [metadata.files]
 "altair 4.2.0" = [
@@ -1101,10 +1084,6 @@ content_hash = "sha256:77016295ed4d5b9eeb2cfa0f0272c7a53d757293139df9b6a3f1eeea8
 "gitpython 3.1.27" = [
     {url = "https://files.pythonhosted.org/packages/83/32/ce68915670da6fd6b1e3fb4b3554b4462512f6441dddd194fc0f4f6ec653/GitPython-3.1.27-py3-none-any.whl", hash = "sha256:5b68b000463593e05ff2b261acff0ff0972df8ab1b70d3cdbd41b546c8b8fc3d"},
     {url = "https://files.pythonhosted.org/packages/d6/39/5b91b6c40570dc1c753359de7492404ba8fe7d71af40b618a780c7ad1fc7/GitPython-3.1.27.tar.gz", hash = "sha256:1c885ce809e8ba2d88a29befeb385fcea06338d3640712b59ca623c220bb5704"},
-]
-"gtin 1.3.1649173518" = [
-    {url = "https://files.pythonhosted.org/packages/17/ae/d1936a5487ffad5182c5ab904c673760046d64fb60ab555b730e6227e4c2/gtin-1.3.1649173518-py3-none-any.whl", hash = "sha256:b9abeb861ca99d20c0b232d0a15766690aba046d387f8ed364c87e34bd12af42"},
-    {url = "https://files.pythonhosted.org/packages/39/50/2c5f7e14b164023d1547df85f4b48c2e33de14cea673f546225269dc54a9/gtin-1.3.1649173518.tar.gz", hash = "sha256:95d36d5c006ba93ab12a1a9d1cfd42bc7719284751b1195c623d1e5d2c599a5f"},
 ]
 "idna 3.3" = [
     {url = "https://files.pythonhosted.org/packages/04/a2/d918dcd22354d8958fe113e1a3630137e0fc8b44859ade3063982eacd2a4/idna-3.3-py3-none-any.whl", hash = "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff"},
