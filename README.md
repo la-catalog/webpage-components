@@ -2,4 +2,4 @@
 Description  
 
 # install
-`pdm add git+https://github.com/la-catalog/webpage-components.git`  
+`pdm add webpage-components`  
