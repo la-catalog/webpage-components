@@ -632,7 +632,7 @@ summary = "Python for Window Extensions"
 name = "pywinpty"
 version = "2.0.6"
 requires_python = ">=3.7"
-summary = "Pseudo terminal support for Windows from Python."
+summary = ""
 
 [[package]]
 name = "pyzmq"
@@ -862,7 +862,7 @@ summary = "Backport of pathlib-compatible object wrapper for zip files"
 
 [metadata]
 lock_version = "4.0"
-content_hash = "sha256:7b03baa975ca13579fad4076136f244e0c8cdecb698c7dc56a6c8986143e4f2b"
+content_hash = "sha256:24a02e6f527c167c7129b1c10f991d34f7c215f10365da5197fba1894edde179"
 
 [metadata.files]
 "altair 4.2.0" = [
