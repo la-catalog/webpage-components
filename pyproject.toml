@@ -7,7 +7,7 @@ authors = [
     {name = "thiagola92", email = "thiagola92@gmail.com"},
 ]
 dependencies = [
-    "streamlit==1.14.0",
+    "streamlit==1.15.0",
 ]
 
 [project.urls]
