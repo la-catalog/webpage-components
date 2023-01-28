@@ -2,12 +2,12 @@
 name = "webpage-components"
 version = "0.1.0"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 authors = [
     {name = "thiagola92", email = "thiagola92@gmail.com"},
 ]
 dependencies = [
-    "streamlit==1.15.1",
+    "streamlit>=1.17.0",
 ]
 
 [project.urls]
